@@ -33,11 +33,24 @@ Iga nädal lisandub üks artefakt. Kokku moodustavad need tervikliku **AI integr
 
 See kaust sisaldab UrbanStyle'i äriinfot, mida AI saab kasutada kontekstina. **Lisa see kaust Claude Projekti** ja AI vastab küsimustele nagu UrbanStyle'i sisemine ekspert.
 
-Proovi küsida:
+| Fail | Sisu | Kelle peas see varem oli? |
+|------|------|--------------------------|
+| `urbanstyle-overview.md` | Ettevõtte profiil, juhtkond, numbrid | Kristi (CEO) |
+| `customer-segments.md` | 5 kliendisegmenti, persona'd | Marko (tootejuht) |
+| `processes-automation.md` | TOP 10 protsessi, automatiseerimiskandidaadid | Liis (operatsioonid) |
+| `faq-knowledge.md` | Klienditeeninduse KKK (tagastused, tarneajad...) | Klienditeenindajad |
+| `pricing-and-discounts.md` | Hinnareeglid, marginaalid, allahindluspoliitika | Kristi + Kristi Google Sheet |
+| `brand-voice-and-tone.md` | Brändi hääl, kirjutamisstiil, näited | Anna (turundus) |
+| `new-employee-onboarding.md` | Uue töötaja 1. nädal, reeglid, kontaktid | Liis (WhatsApp sõnumid) |
+| `seasonal-calendar.md` | Hooajakalender, kampaaniad, tarnijate ajad | Anna (Google Calendar) |
+
+**Proovi küsida:**
 - *"Millised on UrbanStyle'i 3 kõige automatiseeritavamat protsessi?"*
-- *"Kirjuta kliendile vastus tagastuspoliitika kohta"*
+- *"Kirjuta kliendile vastus tagastuspoliitika kohta meie brändi hääles"*
 - *"Koosta Narva poe turundusplaan eco-teadlikule segmendile"*
-- *"Mis on UrbanStyle'i suurim operatsiooniline kitsaskoht?"*
+- *"Mida peab uus töötaja teadma Pärnu poe kohta?"*
+- *"Millised kampaaniad on Q4 plaanis ja mida peab ette valmistama?"*
+- *"Kui suur allahindlus on lubatud flash sale ajal eco-toodetele?"*
 
 ---
 

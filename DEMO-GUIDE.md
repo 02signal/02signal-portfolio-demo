@@ -19,11 +19,15 @@
 
 ### Ettevalmistus (enne sessiooni):
 1. Loo Claude'is uus Projekt: "UrbanStyle AI Teadmusbaas"
-2. Lisa projektifailideks `knowledge-base/` kausta 4 faili:
-   - urbanstyle-overview.md
-   - customer-segments.md
-   - processes-automation.md
-   - faq-knowledge.md
+2. Lisa projektifailideks `knowledge-base/` kausta **kõik 8 faili**:
+   - urbanstyle-overview.md — ettevõtte profiil
+   - customer-segments.md — kliendisegmendid
+   - processes-automation.md — protsessid
+   - faq-knowledge.md — klienditeeninduse KKK
+   - pricing-and-discounts.md — hinnareeglid ja allahindlused
+   - brand-voice-and-tone.md — brändi hääl ja kirjutamisstiil
+   - new-employee-onboarding.md — uue töötaja juhend
+   - seasonal-calendar.md — hooajakalender ja kampaaniad
 
 ### Sessiooni ajal:
 
@@ -57,6 +61,16 @@ Millist kliendisegmenti peaks UrbanStyle esmalt AI-ga teenindama ja miks?
 Koosta Narva poe turundusplaan meeste segmendile
 ```
 → AI kasutab kõiki faile: poe andmed + segmendid + protsessid
+
+```
+Uus töötaja alustab Pärnu poes homme. Mida ta peab teadma esimesel päeval?
+```
+→ AI kombineerib onboarding juhendi + poe eripärad + hooajainfo
+
+```
+Kirjuta kliendile vastus, kes küsib allahindlust eco-tootele. Kasuta meie brändi häält.
+```
+→ AI teab: eco-tooted EI osale flash sale's + vastab "sina"-vormis, sõbralikult
 
 ### Punchline:
 
